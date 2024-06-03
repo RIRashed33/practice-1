@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover_photo": "/img/cover_img_1.jpg",
+      "title": "The Dawn of AI",
+      "author": "Jane Doe",
+      "author_img": "/img/author_1.jpg",
+      "posted_date": "2024-05-20",
+      "reading_time": "5 min",
+      "hashtags": ["AI", "Technology", "Future"]
+    },
+    {
+      "id": "2",
+      "cover_photo": "/img/cover_img_2.jpg",
+      "title": "Exploring the Depths",
+      "author": "John Smith",
+      "author_img": "/img/author_2.jpg",
+      "posted_date": "2024-06-01",
+      "reading_time": "7 min",
+      "hashtags": ["Ocean", "Exploration", "Science"]
+    },
+    {
+      "id": "3",
+      "cover_photo": "/img/cover_img_3.jpg",
+      "title": "Healthy Eating Habits",
+      "author": "Emily Johnson",
+      "author_img": "/img/author_3.jpg",
+      "posted_date": "2024-04-15",
+      "reading_time": "4 min",
+      "hashtags": ["Health", "Nutrition", "Lifestyle"]
+    },
+    {
+      "id": "4",
+      "cover_photo": "/img/cover_img_1.jpg",
+      "title": "The Art of Minimalism",
+      "author": "Michael Brown",
+      "author_img": "/img/author_1.jpg",
+      "posted_date": "2024-05-30",
+      "reading_time": "6 min",
+      "hashtags": ["Minimalism", "Lifestyle", "Design"]
+    },
+    {
+      "id": "5",
+      "cover_photo": "/img/cover_img_2.jpg",
+      "title": "Advances in Quantum Computing",
+      "author": "Sophia Williams",
+      "author_img": "/img/author_2.jpg",
+      "posted_date": "2024-05-25",
+      "reading_time": "8 min",
+      "hashtags": ["Quantum Computing", "Technology", "Innovation"]
+    }
+  ]
+  
